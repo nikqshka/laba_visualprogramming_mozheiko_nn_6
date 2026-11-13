@@ -15,9 +15,9 @@
 
 **Скриншоты базовой части:**
 
-![Дизайн Screen1](../screenshots/01-screen1.png)
+<img width="362" height="713" alt="image" src="https://github.com/user-attachments/assets/000ff2ce-b727-474b-8d37-e50b809ab37d" />
 
-![Логика базового задания](../screenshots/02-blocks-base.png)
+<img width="1048" height="404" alt="image" src="https://github.com/user-attachments/assets/805104e2-74c3-4816-849a-fa615e81c79b" />
 
 ---
  Выводы
